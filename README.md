@@ -1,3 +1,3 @@
-# imdb-movies
+# Fintech
 
-This repo contains the IMDB movies dataset.
+This repo contains codes for financial data wrangling.
